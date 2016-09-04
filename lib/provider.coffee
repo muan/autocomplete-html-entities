@@ -51,7 +51,7 @@ module.exports =
       completion.replacementPrefix = prefix
       suggestions.push(completion)
 
-    filter(suggestions, prefix, key: 'text')
+    filter(suggestions, prefix, key: 'description')
 
   # Private: Gets the appropriate prefix text to search for.
   #
