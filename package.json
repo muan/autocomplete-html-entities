@@ -10,7 +10,7 @@
     "HTML",
     "entities"
   ],
-  "repository": "https://github.com/lee-dohm/autocomplete-html-entities",
+  "repository": "https://github.com/muan/autocomplete-html-entities",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
