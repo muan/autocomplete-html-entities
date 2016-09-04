@@ -2,7 +2,7 @@ CSON = require 'season'
 {filter} = require 'fuzzaldrin'
 
 module.exports =
-  selector: '.text.html.basic, .source.gfm'
+  selector: '.text.haml, text.html, .source.gfm'
 
   # Public: Gets the current set of suggestions.
   #
